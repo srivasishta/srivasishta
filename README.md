@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 👨‍💻 Srinidhi Vasishta – Software Developer</h1>
-<h3 align="center">🚀 A passionate Software developer from India, crafting web & mobile experiences with MERN & Flutter — building tech communities, and taking on freelance projects.</h3>
+<h3 align="center">🚀 A passionate Software developer from India, crafting web & mobile experiences with MERN & Flutter — building tech communitie.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivasishta&label=Profile%20views&color=0e75b6&style=flat" alt="srivasishta" /> </p>
 
